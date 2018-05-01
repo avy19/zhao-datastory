@@ -4,12 +4,14 @@ h1 {
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
-  font-family: sans-serif;
-  border-radius: 25px;
+  font-family: 'Berkshire Swash', cursive;
+  border-radius: 20px;
 }
 
 h2 {
-  font-family: sans-serif;
+  font-family: 'Do Hyeon', sans-serif;
+  margin-top: 5px;
+  margin-bottom: 20px;
 }
 
 h2::before {
@@ -38,6 +40,6 @@ img {
 
 section {
   background-color: rgb(212, 228, 255);
-  border-radius: 25px;
-  padding: 10px;
+  border-radius: 20px;
+  padding: 20px;
 }
