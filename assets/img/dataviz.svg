@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="DraftFin.svg"
+   sodipodi:docname="dataviz.svg"
    inkscape:export-filename="/Users/avyzhao/Documents/Draft1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6750955"
-     inkscape:cx="641.51322"
-     inkscape:cy="521.89605"
+     inkscape:cx="615.59096"
+     inkscape:cy="462.64517"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2781,5 +2781,16 @@
          x="259.04056"
          id="tspan11016"
          sodipodi:role="line">nuetral ----------------- happy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'eurofurence light';-inkscape-font-specification:'eurofurence light, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.056629"
+       y="293.86459"
+       id="text1253"><tspan
+         sodipodi:role="line"
+         id="tspan1251"
+         x="36.056629"
+         y="293.86459"
+         style="stroke-width:0.26458332">*note: there is no particular order to the petals, except that I grouped like colors together</tspan></text>
   </g>
 </svg>
